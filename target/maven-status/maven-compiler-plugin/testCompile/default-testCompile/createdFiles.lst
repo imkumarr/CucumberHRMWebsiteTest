@@ -1,0 +1,5 @@
+PageFactory\UpdateUserDetails.class
+StepDefinitions\TestRunner\CucumberTestRunner.class
+PageFactory\homePageFactory.class
+StepDefinitions\loginStepDefinition.class
+PageFactory\loginPageFactory.class
